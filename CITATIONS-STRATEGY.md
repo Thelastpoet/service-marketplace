@@ -1,4 +1,4 @@
-# Citation Strategy for Nationwide Service Marketplace
+# Citation Strategy for Nationwide Shule za Kenya
 
 ## Overview
 Since you don't have a single physical location but operate nationwide with service areas everywhere, you'll need a strategic approach to citations.

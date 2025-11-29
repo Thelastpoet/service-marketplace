@@ -1,4 +1,4 @@
-# Niche Migration Guide: Transforming Your Service Marketplace
+# Niche Migration Guide: Transforming Your Shule za Kenya
 
 ## Overview
 This guide provides a comprehensive plan for migrating the service marketplace template from one niche to another (e.g., from DumpQuote.co to MedSpaQuote.co). The architecture is designed to be niche-agnostic with configuration-driven content.

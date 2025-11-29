@@ -333,7 +333,7 @@ export default function AdminPage() {
             <div>
               <h1 className="text-3xl font-bold mb-2">Site Configuration Admin</h1>
               <p className="text-muted-foreground">
-                Configure your service marketplace platform without touching code
+                Configure your platform without touching code
               </p>
             </div>
             <div className="flex items-center gap-4">

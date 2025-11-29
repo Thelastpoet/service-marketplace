@@ -1,6 +1,6 @@
 # Stripe Payment Integration Setup Guide
 
-This guide will help you set up Stripe payment processing for your service marketplace platform.
+This guide will help you set up Stripe payment processing for Shule za Kenya.
 
 ## Prerequisites
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document explains the comprehensive SEO system built into the service marketplace platform. The system is **completely niche-agnostic** - you can switch from dumpster rental to medical spas, home services, or any other vertical by simply changing the configuration file.
+This document explains the comprehensive SEO system built into Shule za Kenya. The system is **completely niche-agnostic** - you can switch from dumpster rental to medical spas, home services, or any other vertical by simply changing the configuration file.
 
 ## Table of Contents
 1. [Architecture](#architecture)

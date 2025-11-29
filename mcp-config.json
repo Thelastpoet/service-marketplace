@@ -1,7 +1,7 @@
 {
-  "name": "service-marketplace-neon",
+  "name": "shulezakenya-neon",
   "version": "1.0.0",
-  "description": "MCP Server configuration for Service Marketplace with Neon Database",
+  "description": "MCP Server configuration for Shule za Kenya with Neon Database",
   "servers": {
     "neon": {
       "type": "database",

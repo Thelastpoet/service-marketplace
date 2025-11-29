@@ -1,6 +1,6 @@
 # Neon Database Setup Guide
 
-This guide will help you connect your service marketplace to Neon for high-performance PostgreSQL database hosting.
+This guide will help you connect Shule za Kenya to Neon for high-performance PostgreSQL database hosting.
 
 ## Why Neon?
 
@@ -12,7 +12,7 @@ This guide will help you connect your service marketplace to Neon for high-perfo
 ## Prerequisites
 
 - A Neon account (free tier available at [neon.tech](https://neon.tech))
-- Your deployed or local service marketplace
+- Your deployed or local Shule za Kenya instance
 - Node.js 18+ installed
 
 ## Step 1: Create a Neon Project
@@ -20,7 +20,7 @@ This guide will help you connect your service marketplace to Neon for high-perfo
 1. Go to [console.neon.tech](https://console.neon.tech)
 2. Click "Create a project"
 3. Configure your project:
-   - **Project name**: `service-marketplace` (or your preferred name)
+   - **Project name**: `shulezakenya` (or your preferred name)
    - **Region**: Select the closest to your users
    - **PostgreSQL version**: 16 (recommended)
 4. Click "Create project"

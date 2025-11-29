@@ -1,4 +1,4 @@
-# Service Marketplace Platform
+# Shule za Kenya
 
 A fully-featured, niche-agnostic service marketplace platform built with Next.js, TypeScript, and Tailwind CSS. Perfect for creating directories for dumpster rentals, home services, healthcare providers, or any service-based business.
 
@@ -70,8 +70,8 @@ A fully-featured, niche-agnostic service marketplace platform built with Next.js
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/service-marketplace.git
-cd service-marketplace
+git clone https://github.com/yourusername/shulezakenya.git
+cd shulezakenya
 ```
 
 2. **Install dependencies:**
@@ -191,8 +191,8 @@ netlify deploy --prod
 
 ### Docker
 ```bash
-docker build -t service-marketplace .
-docker run -p 3000:3000 service-marketplace
+docker build -t shulezakenya .
+docker run -p 3000:3000 shulezakenya
 ```
 
 ## 📊 Features Roadmap

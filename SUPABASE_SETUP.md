@@ -1,18 +1,18 @@
 # Supabase Setup Guide
 
-This guide will help you connect your service marketplace to Supabase for persistent data storage.
+This guide will help you connect Shule za Kenya to Supabase for persistent data storage.
 
 ## Prerequisites
 
 - A Supabase account (free tier available at [supabase.com](https://supabase.com))
-- Your deployed or local service marketplace
+- Your deployed or local Shule za Kenya instance
 
 ## Step 1: Create a Supabase Project
 
 1. Go to [app.supabase.com](https://app.supabase.com)
 2. Click "New Project"
 3. Fill in:
-   - Project name: `service-marketplace` (or your preferred name)
+   - Project name: `shulezakenya` (or your preferred name)
    - Database password: Choose a strong password
    - Region: Select the closest to your users
 4. Click "Create Project" and wait for setup to complete
